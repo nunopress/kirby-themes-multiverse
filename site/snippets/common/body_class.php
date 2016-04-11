@@ -1,0 +1,1 @@
+template-<?php echo $page->template() ?> page-<?php echo $page->uid() ?>

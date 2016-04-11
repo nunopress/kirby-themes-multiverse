@@ -1,0 +1,62 @@
+Title: Multiverse by HTML5 UP and NunoPress LLC
+
+----
+
+Author: HTML5 UP and NunoPress LLC
+
+----
+
+Description: Say hello to Multiverse, a slick, one-page gallery design with a fully functional lightbox (courtesy of my Poptrox plugin for jQuery) and a custom, reusable "panel" system (click the "About" button in the lower right to see what I mean). Had a ton of fun putting this one together, and I hope you have as much fun working with it :)
+
+----
+
+Keywords: Kirby,CMS,file-based
+
+----
+
+Copyright: © (date: Year) All right reserved. Design: (link: http://html5up.net text: HTML5 UP). Theme: (link: http://nunopress.com text: NunoPress LLC).
+
+----
+
+Site-title: <strong>Multiverse</strong> by HTML5 UP and NunoPress LLC
+
+----
+
+Site-email: admin@localhost.local
+
+----
+
+Social-icons: 
+
+- 
+  social_icon_class: fa-twitter
+  social_icon_name: Twitter
+  social_icon_link: '#'
+- 
+  social_icon_class: fa-facebook
+  social_icon_name: Facebook
+  social_icon_link: '#'
+- 
+  social_icon_class: fa-instagram
+  social_icon_name: Instagram
+  social_icon_link: '#'
+- 
+  social_icon_class: fa-github
+  social_icon_name: GitHub
+  social_icon_link: '#'
+- 
+  social_icon_class: fa-dribbble
+  social_icon_name: Dribbble
+  social_icon_link: '#'
+- 
+  social_icon_class: fa-linkedin
+  social_icon_name: LinkedIn
+  social_icon_link: '#'
+
+----
+
+About-title: Magna feugiat sed adipiscing
+
+----
+
+About-text: Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum.

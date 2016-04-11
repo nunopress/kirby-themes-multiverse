@@ -1,3 +1,14 @@
+# KirbyCMS
+kirby
+panel
+site/cache/*
+site/accounts/.logins
+site/accounts/admin.php
+thumbs/*
+
+# phpstorm
+.idea
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
