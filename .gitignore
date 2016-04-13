@@ -3,7 +3,7 @@ kirby
 panel
 site/cache/*
 site/accounts/.logins
-site/accounts/admin.php
+site/accounts/*.php
 thumbs/*
 
 # phpstorm
