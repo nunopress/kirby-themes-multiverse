@@ -20,6 +20,5 @@ return function ($site, $pages, $page, $args) {
         'body' => $query['message']
     ]);
 
-    return ($email->send()) ? [ 'contact_form_success' => true ] : [ 'contact_form_error' => $email->error() ]
-    ];
+    return ($email->send()) ? [ 'contact_form_success' => true ] : [ 'contact_form_error' => $email->error() ];
 };
