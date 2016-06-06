@@ -45,3 +45,6 @@ fields:
       social_icon_link:
         label: Link
         type: text
+  recaptcha_api:
+    label: reCaptcha API key
+    type: text

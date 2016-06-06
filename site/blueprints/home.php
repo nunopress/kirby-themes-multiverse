@@ -20,7 +20,7 @@ fields:
         type: text
       item_image:
         label: Image
-        type: text
+        type: image
       item_text:
         label: Text
         type: textarea
